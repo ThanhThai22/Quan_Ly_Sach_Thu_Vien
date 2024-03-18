@@ -1,0 +1,28 @@
+D:\CT291\Document\TH\QLSach\QLSach\bin\Debug\QLSach.exe
+D:\CT291\Document\TH\QLSach\QLSach\bin\Debug\QLSach.pdb
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\ResolveAssemblyReference.cache
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.Form1.resources
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.FormDangKy.resources
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.Properties.Resources.resources
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.csproj.GenerateResource.Cache
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.exe
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.pdb
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.ThemSach.resources
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.FormLapHD.resources
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.QLKhachHang.resources
+D:\CT291\Document\TH\QLSach\QLSach\obj\Debug\QLSach.QLNhanVien.resources
+D:\Project-LTUD\QLSach (1)\QLSach\bin\Debug\QLSach.exe
+D:\Project-LTUD\QLSach (1)\QLSach\bin\Debug\QLSach.pdb
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.csproj.AssemblyReference.cache
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.Form1.resources
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.FormDangKy.resources
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.FormLapHD.resources
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.Properties.Resources.resources
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.QLKhachHang.resources
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.QLNhanVien.resources
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.ThemSach.resources
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.csproj.GenerateResource.cache
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.csproj.CoreCompileInputs.cache
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.exe
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.pdb
+D:\Project-LTUD\QLSach (1)\QLSach\obj\Debug\QLSach.XuatHoaDon.resources
